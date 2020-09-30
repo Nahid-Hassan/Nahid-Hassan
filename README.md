@@ -16,14 +16,13 @@ Here are some ideas to get you started:
 -->
 ### Hi there, I'm Md. Nahid Hassan 👋
 
-[![Website](https://img.shields.io/badge/Security%20and%20Data%20Technology-Github%20page-blue)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACK?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Website](https://img.shields.io/badge/Security%20and%20Data%20Technology-Github%20page-blue)](https://sdt-inc.github.io/)
 
 ## I'm a Student, Developer, and ML Research assistant!
 
 - 🔭 I’m currently working on as [Student][university]!
 - 🌱 I’m currently learning `Machine Learning` and `Data Analysis` 
-- 👯 I’m looking to collaborate with other `Machine Learning Entuasistas`
+- 👯 I’m looking to collaborate with other `Machine Learning Engineer`
 - 🥅 2020 Goals: Contribute more to `Open Source projects` and learn `IT` and `Machine Learning`
 - ⚡ Fun fact: Very easily I am fall in love. 🤣
 - 🔭 My organization is [Software and Data Technology][website]
