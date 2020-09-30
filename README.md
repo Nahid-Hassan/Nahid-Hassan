@@ -14,16 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there, I'm Md. Nahid Hassan 👋
+## Hi there, I'm Md. Nahid Hassan 👋
 
 [![Website](https://img.shields.io/badge/Security%20and%20Data%20Technology-Github%20page-blue)](https://sdt-inc.github.io/)
 
-## I'm a Student, Developer, and ML Research assistant!
+### I'm a Student, Developer, and ML Research assistant!
 
 - 🔭 I’m currently working on as [student][university]!
 - 🌱 I’m currently learning `Machine Learning` and `Data Analysis` 
 - 👯 I’m looking to collaborate with other `Machine Learning Engineer`
 - 🥅 2020 Goals: Contribute more to `Open Source projects` and learn `IT` and `Machine Learning`
+- 💬 Ask me about Python and Data Analysis
 - ⚡ Fun fact: Very easily I am fall in love. 🤣
 - 🔭 My organization is [Software and Data Technology][website]
 
