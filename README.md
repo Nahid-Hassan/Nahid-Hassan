@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## I'm a Student, Developer, and ML Research assistant!
 
-- 🔭 I’m currently working on as [Student][university]!
+- 🔭 I’m currently working on as [student][university]!
 - 🌱 I’m currently learning `Machine Learning` and `Data Analysis` 
 - 👯 I’m looking to collaborate with other `Machine Learning Engineer`
 - 🥅 2020 Goals: Contribute more to `Open Source projects` and learn `IT` and `Machine Learning`
