@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there, I'm Md. Nahid Hassan 👋
+### Hi there, I'm Md. Nahid Hassan
 
 [![Organization](https://img.shields.io/badge/Security%20and%20Data%20Technology-Github%20page-blue)](https://sdt-inc.github.io/)
 
