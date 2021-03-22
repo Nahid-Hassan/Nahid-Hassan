@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on as [student][university]!
 - 🌱 I’m currently learning `Machine Learning` and `Data Analysis` 
 - 👯 I’m looking to collaborate with other `Machine Learning Engineer`
-- 🥅 2020 Goals: Contribute more to `Open Source projects` and learn `IT` and `Machine Learning`
+- 🥅 2021 Goals: Contribute more to `Open Source projects` and learn `IT` and `Machine Learning`
 - 💬 Ask me about Python and Data Analysis
 - ⚡ Fun fact: Very easily I am fall in love. 🤣
 - 🔭 My organization is [Software and Data Technology][website]
