@@ -46,7 +46,10 @@ Here are some ideas to get you started:
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />] -->
 
-![Md. Nahid Hassan's github stats](https://github-readme-stats.vercel.app/api?username=Nahid-Hassan&show_icons=true)
+<p float='center'>
+<img src="https://github-readme-stats.vercel.app/api?username=Nahid-Hassan&show_icons=true&theme=light&count_private=true&hide=contribs,issue%22">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahid-Hassan&layout=compact&theme=light">
+</p>
 
 [university]: http://www.ru.ac.bd/cse
 [twitter]: https://twitter.com/MdNahid42370806
